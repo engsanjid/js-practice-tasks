@@ -13,7 +13,7 @@ function  onlyCharacter( str )
             {
                 if(num!==' ')
                 {
-                    result=result+num.toLocaleUpperCase();
+                    result=result+num.toUpperCase();
                 }      
             }
 
@@ -22,3 +22,4 @@ function  onlyCharacter( str )
          }
 
 }
+console.log(onlyCharacter('Sanjid is a student , he is a hacker '))

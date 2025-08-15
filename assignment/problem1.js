@@ -13,3 +13,4 @@ function totalFine( fare )
         
        }
 }
+console.log(totalFine(22))
