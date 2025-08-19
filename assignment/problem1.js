@@ -1,5 +1,5 @@
 
-function totalFine( fare )
+/*function totalFine( fare )
 
 {
        if(typeof fare === 'number' && fare>0)
@@ -13,4 +13,4 @@ function totalFine( fare )
         
        }
 }
-console.log(totalFine(22))
+console.log(totalFine(22))*/
